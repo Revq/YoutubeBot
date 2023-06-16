@@ -1,4 +1,5 @@
-discord.py
+nextcord
+nextcord-ext-menus
 pynacl
 yt_dlp
 python-dotenv
